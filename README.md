@@ -1,6 +1,6 @@
 # neural_blind_deconv_PSMA
 This code corresponds to the 2023 work: Neural blind deconvolution for simultaneous partial volume effect correction and super-sampling of PSMA PET images by Caleb Sample, Arman Rahmim, Carlos Uribe, Francois Benard, Jonn Wu, and Haley Clark. 
-https://arxiv.org/abs/2309.00590v1
+[https://arxiv.org/abs/2309.00590v1](https://iopscience.iop.org/article/10.1088/1361-6560/ad36a9)
 
 
 Here, neural blind deconvolution, as first roposed by Ren et al. 2020 (http://doi.org/10.1109/CVPR42600.2020.00340.) is adapted for pve mitigation/super-sampling of PSMA PET images.
